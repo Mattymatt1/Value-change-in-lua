@@ -13,4 +13,5 @@ print("*")
 if a % 2 == 1 then
      a = a - 1
  end 
+   end
 
