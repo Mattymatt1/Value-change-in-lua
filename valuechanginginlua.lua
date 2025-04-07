@@ -1,6 +1,6 @@
 -- variable definition:
 a = 5
-a2 = a*a
+a2 = a*2
 -- end
 
 -- variable setup
