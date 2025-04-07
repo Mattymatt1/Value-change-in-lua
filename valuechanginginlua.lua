@@ -13,6 +13,5 @@ end
     a = a - 1
   end 
 print("*")
- 
    end
 
